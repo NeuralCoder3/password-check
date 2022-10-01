@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/password-check/static/css/main.250c8b8a.css",
-    "main.js": "/password-check/static/js/main.b55a6cb4.js",
+    "main.js": "/password-check/static/js/main.31366ee2.js",
     "static/js/787.97c9d9fb.chunk.js": "/password-check/static/js/787.97c9d9fb.chunk.js",
     "index.html": "/password-check/index.html",
     "main.250c8b8a.css.map": "/password-check/static/css/main.250c8b8a.css.map",
-    "main.b55a6cb4.js.map": "/password-check/static/js/main.b55a6cb4.js.map",
+    "main.31366ee2.js.map": "/password-check/static/js/main.31366ee2.js.map",
     "787.97c9d9fb.chunk.js.map": "/password-check/static/js/787.97c9d9fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.250c8b8a.css",
-    "static/js/main.b55a6cb4.js"
+    "static/js/main.31366ee2.js"
   ]
 }
