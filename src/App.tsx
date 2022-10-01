@@ -25,6 +25,8 @@ function App() {
       setStatusText('You found the password!');
     } else if (hash === exampleHash) {
       setStatusText('This is the example not the solution!');
+    } else {
+      setStatusText('Wrong passphrase!');
     }
   };
 
